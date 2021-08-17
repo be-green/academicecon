@@ -1,6 +1,6 @@
 # general configuration
 url: brice.green/
-baseurl: 'academicecon/'
+baseurl: '/academicecon/'
 
 # compass configuration
 compass:
